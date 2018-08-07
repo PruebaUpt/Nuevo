@@ -59,6 +59,7 @@ namespace WindowsFormsApplication1
                     else
                     {
                         MessageBox.Show("No fue posible registrar");
+                        MessageBox.Show("");
                     }
                 }
             }
